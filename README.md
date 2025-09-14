@@ -13,7 +13,7 @@ I’m a **DevOps & Cloud enthusiast** passionate about automation, infrastructur
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack : ☁️ 🐳 ⚙️  🚀
 **Cloud & Infra**: AWS, Azure (basics)  
 **Containers & Orchestration**: Docker, Kubernetes  
 **Infrastructure as Code**: Terraform, Ansible  
