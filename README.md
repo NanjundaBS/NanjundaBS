@@ -1,13 +1,50 @@
-<h1 align="center">Hi 👋, I'm Nanjunda BS</h1>
-<h3 align="center">A passionate DevOps Engineer from Bengaluru</h3>
+# Hi there, I'm Nanjunda 👋
 
-- 📫 How to reach me **nanjundabsom@gmail.com**
+Welcome to my GitHub profile!  
+I’m a **DevOps & Cloud enthusiast** passionate about automation, infrastructure as code, and building scalable systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nanjunda-bs13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nanjunda-bs13" height="30" width="40" /></a>
-<a href="https://instagram.com/nanju_b_somashekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanju_b_somashekar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 🌱 Currently learning **AWS | DevOps | Linux | Terraform | Kubernetes | Docker | Git | CI/CD**
+- 💻 Interested in **Cloud Architecture, Automation, and Scripting**
+- 📚 Sharing knowledge through **LinkedIn articles** and hands-on projects
+- ⚡ Fun fact: I love solving real-world problems with simple scripts and automation.
+
+---
+
+## 🛠️ Tech Stack
+**Cloud & Infra**: AWS, Azure (basics)  
+**Containers & Orchestration**: Docker, Kubernetes  
+**Infrastructure as Code**: Terraform, Ansible  
+**CI/CD**: GitHub Actions, Jenkins  
+**Scripting & OS**: Bash, Linux  
+**Version Control**: Git, GitHub
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|--------|------------|------|
+| [Terraform AWS EC2](https://github.com/your-username/terraform-aws-ec2) | Provision EC2 with Terraform | Terraform, AWS |
+| [K8s Deployment](https://github.com/your-username/k8s-deployment) | Kubernetes deployment setup | Kubernetes, Docker |
+| [Ansible Playbooks](https://github.com/your-username/ansible-playbooks) | Automated server configuration | Ansible, Linux |
+
+> 🖱️ *Click project links to explore repositories.*
+
+---
+
+## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/nanjunda-bs13
+- 📧 Email: nanjundabsom@gmail.com
+  
+
+---
+
+⭐️ From NanjundaBS
