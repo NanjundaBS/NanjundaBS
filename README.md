@@ -20,24 +20,6 @@ I’m a **DevOps & Cloud enthusiast** passionate about automation, infrastructur
 **CI/CD**: GitHub Actions, Jenkins  
 **Scripting & OS**: Bash, Linux  
 **Version Control**: Git, GitHub
-
----
-
-## 📌 Featured Projects
-| Project | Description | Tech |
-|--------|------------|------|
-| [Terraform AWS EC2](https://github.com/your-username/terraform-aws-ec2) | Provision EC2 with Terraform | Terraform, AWS |
-| [K8s Deployment](https://github.com/your-username/k8s-deployment) | Kubernetes deployment setup | Kubernetes, Docker |
-| [Ansible Playbooks](https://github.com/your-username/ansible-playbooks) | Automated server configuration | Ansible, Linux |
-
-> 🖱️ *Click project links to explore repositories.*
-
----
-
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ---
 
 ## 🌐 Connect With Me
